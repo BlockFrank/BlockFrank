@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Blockchain, Game and App Development
 - 💞️ I’m looking to collaborate on Music, Game and App Development
 - 📫 How to reach me ... Hit me up on my Email Address
-- More Infos: Sound Designer, Composer, Music Engineer
+- More Infos: Sound Designer, Music Composer, Audio Engineer
 
 <!---
 BlockFrank/BlockFrank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
